@@ -1,0 +1,24 @@
+{
+    "name": "social-network",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/robertschwartz603/Social-API.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "git+https://github.com/robertschwartz603/Social-API/issues"
+    },
+    "homepage": "https://github.com/robertschwartz603/Social-API#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^6.3.1"
+    }
+}
