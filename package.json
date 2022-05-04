@@ -19,6 +19,7 @@
     "homepage": "https://github.com/robertschwartz603/Social-API#readme",
     "dependencies": {
         "express": "^4.17.1",
+        "moment": "^2.29.3",
         "mongoose": "^6.3.1"
     }
 }
